@@ -1,0 +1,761 @@
+# Verifyistic translation template.
+# Copyright (C) 2026 WordPressistic
+# This file is distributed under the GPL-2.0-or-later license.
+msgid ""
+msgstr ""
+"Project-Id-Version: Verifyistic 1.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpressistic.com/contact\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-23 00:00+0000\n"
+"X-Domain: verifyistic\n"
+
+#: templates/admin/page-settings.php:496
+msgid "+ Add Connection"
+msgstr ""
+
+#: templates/admin/page-settings.php:243
+msgid "Accent / Input Focus Color"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:170
+msgid "Active"
+msgstr ""
+
+#: templates/admin/page-settings.php:65
+msgid "Advanced"
+msgstr ""
+
+#: templates/admin/page-settings.php:337
+msgid "Advanced & Integrations"
+msgstr ""
+
+#: templates/admin/page-settings.php:367
+msgid "Advanced Security"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:125
+msgid "Age"
+msgstr ""
+
+#: templates/frontend/popup.php:49
+msgid "Age %s Required"
+msgstr ""
+
+#: templates/frontend/popup.php:145
+msgid "Age Verified!"
+msgstr ""
+
+#: templates/frontend/popup.php:61
+msgid "Age confirmation"
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:167
+msgid "Age verified. Welcome!"
+msgstr ""
+
+#: templates/admin/page-settings.php:316
+msgid "Applied after all plugin styles. Use %1$s and %2$s selectors."
+msgstr ""
+
+#: templates/frontend/popup.php:103
+msgid "Apr"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:159
+msgid "Are you sure you want to delete ALL verification logs? This cannot be undone."
+msgstr ""
+
+#: templates/frontend/popup.php:104
+msgid "Aug"
+msgstr ""
+
+#: templates/frontend/popup.php:115
+msgid "Birth day"
+msgstr ""
+
+#: templates/frontend/popup.php:109
+msgid "Birth month"
+msgstr ""
+
+#: templates/frontend/popup.php:121
+msgid "Birth year"
+msgstr ""
+
+#: templates/admin/page-settings.php:292
+msgid "Button Shape / Style"
+msgstr ""
+
+#: templates/admin/page-settings.php:264
+msgid "Button Styles"
+msgstr ""
+
+#: templates/admin/page-settings.php:190 templates/admin/page-settings.php:322 templates/admin/page-settings.php:560
+msgid "Changes are saved immediately on submit."
+msgstr ""
+
+#: templates/admin/page-dashboard.php:211
+msgid "Choose a verification mode: Date of Birth, Yes/No, or ID & Face."
+msgstr ""
+
+#: templates/admin/page-logs.php:101
+msgid "Clear All Logs"
+msgstr ""
+
+#: templates/frontend/popup.php:174 templates/frontend/popup.php:184
+msgid "Click to upload"
+msgstr ""
+
+#: templates/admin/page-settings.php:175
+msgid "Comma-separated page IDs where popup is skipped (e.g. 12, 45, 78)."
+msgstr ""
+
+#: templates/admin/page-settings.php:462
+msgid "Connection name"
+msgstr ""
+
+#: templates/admin/page-settings.php:342
+msgid "Cookie & Session"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:189
+msgid "Cookie Days"
+msgstr ""
+
+#: templates/admin/page-settings.php:363
+msgid "Cookie Domain"
+msgstr ""
+
+#: templates/admin/page-settings.php:358
+msgid "Cookie Duration (days)"
+msgstr ""
+
+#: templates/admin/page-settings.php:91
+msgid "Core Configuration"
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:339
+msgid "Could not create private upload directory."
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:313
+msgid "Could not save file."
+msgstr ""
+
+#: templates/admin/page-settings.php:313 templates/admin/page-settings.php:316
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:104 includes/class-verifyistic-admin.php:105 templates/admin/page-dashboard.php:52 templates/admin/page-logs.php:54 templates/admin/page-settings.php:34
+msgid "Dashboard"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:127
+msgid "Date"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:15 templates/frontend/popup.php:98
+msgid "Date of Birth"
+msgstr ""
+
+#: templates/admin/page-settings.php:110
+msgid "Date of Birth Input"
+msgstr ""
+
+#: templates/frontend/popup.php:116
+msgid "Day"
+msgstr ""
+
+#: templates/frontend/popup.php:105
+msgid "Dec"
+msgstr ""
+
+#: templates/admin/page-settings.php:308
+msgid "Default: 160"
+msgstr ""
+
+#: templates/admin/page-settings.php:358
+msgid "Default: 30. Applied when user checks \"Remember Me\"."
+msgstr ""
+
+#: templates/admin/page-settings.php:304
+msgid "Default: 480"
+msgstr ""
+
+#: templates/admin/page-logs.php:160
+msgid "Delete"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:160
+msgid "Delete this log entry?"
+msgstr ""
+
+#: templates/admin/page-settings.php:402
+msgid "Delete verification records on uninstall"
+msgstr ""
+
+#: templates/admin/page-settings.php:61
+msgid "Design"
+msgstr ""
+
+#: templates/admin/page-settings.php:205
+msgid "Design & Appearance"
+msgstr ""
+
+#: templates/admin/page-settings.php:389
+msgid "Disable Bot/Crawler Bypass"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:172 templates/admin/page-settings.php:469
+msgid "Disabled"
+msgstr ""
+
+#: templates/admin/page-settings.php:212
+msgid "Displayed at top of the popup. Recommended max width: 300px."
+msgstr ""
+
+#: templates/frontend/popup.php:203
+msgid "Documents Received!"
+msgstr ""
+
+#: templates/frontend/popup.php:93
+msgid "Doe"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:196
+msgid "Edit Settings"
+msgstr ""
+
+#: templates/admin/page-settings.php:87
+msgid "Enable Age Verification"
+msgstr ""
+
+#: templates/admin/page-settings.php:124
+msgid "Enable ID & Face Verification Mode"
+msgstr ""
+
+#: templates/admin/page-settings.php:417
+msgid "Enable Webhook"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:213
+msgid "Enable the plugin and test on your frontend. All done!"
+msgstr ""
+
+#: templates/admin/page-settings.php:468
+msgid "Enabled"
+msgstr ""
+
+#: templates/admin/page-settings.php:444
+msgid "Events"
+msgstr ""
+
+#: templates/admin/page-settings.php:174
+msgid "Exclude Page IDs"
+msgstr ""
+
+#: templates/admin/page-settings.php:169
+msgid "Exclusions"
+msgstr ""
+
+#: templates/admin/page-logs.php:97
+msgid "Export CSV"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:102
+msgid "Failed / Declined"
+msgstr ""
+
+#: templates/frontend/popup.php:102
+msgid "Feb"
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:288
+msgid "File must be 10 MB or smaller."
+msgstr ""
+
+#: templates/admin/page-logs.php:86
+msgid "Filter"
+msgstr ""
+
+#: templates/frontend/popup.php:88 templates/frontend/popup.php:160
+msgid "First Name"
+msgstr ""
+
+#: templates/admin/page-settings.php:57
+msgid "General"
+msgstr ""
+
+#: templates/admin/page-settings.php:75
+msgid "General Settings"
+msgstr ""
+
+#: templates/admin/page-settings.php:165
+msgid "HTML links allowed."
+msgstr ""
+
+#: templates/admin/page-dashboard.php:17
+msgid "ID & Face"
+msgstr ""
+
+#: templates/admin/page-settings.php:160
+msgid "ID & Face mode only."
+msgstr ""
+
+#: templates/admin/page-settings.php:138
+msgid "ID Upload Label"
+msgstr ""
+
+#: templates/admin/page-settings.php:437
+msgid "If set, each request includes an %s HMAC-SHA256 header for verification."
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:298
+msgid "Invalid file type. Please upload JPG, PNG, GIF, or WEBP."
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:136
+msgid "Invalid verification mode."
+msgstr ""
+
+#: includes/class-verifyistic-webhook.php:17 includes/class-verifyistic-webhook.php:24
+msgid "Invalid webhook URL."
+msgstr ""
+
+#: templates/frontend/popup.php:102
+msgid "Jan"
+msgstr ""
+
+#: templates/frontend/popup.php:89
+msgid "John"
+msgstr ""
+
+#: templates/frontend/popup.php:104
+msgid "Jul"
+msgstr ""
+
+#: templates/frontend/popup.php:103
+msgid "Jun"
+msgstr ""
+
+#: templates/frontend/popup.php:92 templates/frontend/popup.php:164
+msgid "Last Name"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:319
+msgid "Legacy"
+msgstr ""
+
+#: includes/class-verifyistic-webhook.php:43
+msgid "Localhost webhooks are not allowed."
+msgstr ""
+
+#: templates/admin/page-settings.php:223
+msgid "Logo preview"
+msgstr ""
+
+#: templates/frontend/popup.php:102
+msgid "Mar"
+msgstr ""
+
+#: templates/frontend/popup.php:103
+msgid "May"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:176
+msgid "Minimum Age"
+msgstr ""
+
+#: templates/frontend/popup.php:110
+msgid "Month"
+msgstr ""
+
+#: templates/admin/page-settings.php:442
+msgid "Multiple Webhook Connections"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:123
+msgid "Name / IP"
+msgstr ""
+
+#: includes/class-verifyistic-frontend.php:116
+msgid "Network error. Please try again."
+msgstr ""
+
+#: templates/admin/page-settings.php:154
+msgid "No / Exit Button Text"
+msgstr ""
+
+#: templates/admin/page-settings.php:282
+msgid "No Button Color"
+msgstr ""
+
+#: templates/admin/page-settings.php:286
+msgid "No Button Text Color"
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:279
+msgid "No file uploaded."
+msgstr ""
+
+#: templates/admin/page-logs.php:134
+msgid "No verification logs yet. They will appear here once users verify their age."
+msgstr ""
+
+#: templates/admin/page-dashboard.php:135
+msgid "No verifications yet. Your logs will appear here."
+msgstr ""
+
+#: templates/frontend/popup.php:105
+msgid "Nov"
+msgstr ""
+
+#: templates/frontend/popup.php:105
+msgid "Oct"
+msgstr ""
+
+#: templates/admin/page-settings.php:363
+msgid "Optional. Set to %s (with leading dot) to share the verification cookie between www and apex subdomains. Leave empty to scope to the exact current host only."
+msgstr ""
+
+#: templates/admin/page-dashboard.php:212
+msgid "Optionally add a Webhook URL for CRM/Google Sheets integration."
+msgstr ""
+
+#: templates/admin/page-settings.php:247
+msgid "Overlay Color"
+msgstr ""
+
+#: templates/admin/page-settings.php:107
+msgid "Overridden by ID & Face toggle below."
+msgstr ""
+
+#: templates/admin/page-dashboard.php:93
+msgid "Passed"
+msgstr ""
+
+#: templates/admin/page-settings.php:295
+msgid "Pill (50px)"
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:214 includes/class-verifyistic-ajax.php:220 includes/class-verifyistic-frontend.php:112
+msgid "Please enter a valid date of birth."
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:209 includes/class-verifyistic-frontend.php:111
+msgid "Please enter your date of birth."
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:97
+msgid "Please take a moment to complete the form and try again."
+msgstr ""
+
+#: includes/class-verifyistic-frontend.php:114
+msgid "Please upload a selfie with your ID."
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:248
+msgid "Please upload both your ID and selfie."
+msgstr ""
+
+#: includes/class-verifyistic-frontend.php:113
+msgid "Please upload your ID document."
+msgstr ""
+
+#: templates/admin/page-settings.php:232
+msgid "Popup Background Color"
+msgstr ""
+
+#: templates/admin/page-settings.php:228
+msgid "Popup Colors"
+msgstr ""
+
+#: templates/admin/page-settings.php:300
+msgid "Popup Dimensions"
+msgstr ""
+
+#: templates/admin/page-settings.php:236
+msgid "Popup Font / Text Color"
+msgstr ""
+
+#: templates/admin/page-settings.php:134
+msgid "Popup Heading"
+msgstr ""
+
+#: templates/admin/page-settings.php:144
+msgid "Popup Message"
+msgstr ""
+
+#: templates/admin/page-settings.php:130
+msgid "Popup Text"
+msgstr ""
+
+#: includes/class-verifyistic-webhooks.php:152
+msgid "Primary"
+msgstr ""
+
+#: templates/admin/page-settings.php:165
+msgid "Privacy / Terms Text"
+msgstr ""
+
+#: templates/frontend/popup.php:219
+msgid "Protected by Verifyistic · WordPressistic"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:206
+msgid "Quick Start Guide"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:115
+msgid "Recent Verifications"
+msgstr ""
+
+#: templates/admin/page-settings.php:181
+msgid "Redirect URL (on decline)"
+msgstr ""
+
+#: templates/frontend/popup.php:134 templates/frontend/popup.php:192
+msgid "Remember me for %s days"
+msgstr ""
+
+#: templates/admin/page-settings.php:219 templates/admin/page-settings.php:491
+msgid "Remove"
+msgstr ""
+
+#: templates/admin/page-settings.php:294
+msgid "Rounded (8px)"
+msgstr ""
+
+#: templates/admin/page-settings.php:193 templates/admin/page-settings.php:325 templates/admin/page-settings.php:563
+msgid "Save Settings"
+msgstr ""
+
+#: templates/admin/page-logs.php:77
+msgid "Search name or IP…"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:163
+msgid "Select Logo"
+msgstr ""
+
+#: templates/admin/page-settings.php:160
+msgid "Selfie Upload Label"
+msgstr ""
+
+#: templates/frontend/popup.php:104
+msgid "Sep"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:113 includes/class-verifyistic-admin.php:114 templates/admin/page-dashboard.php:56 templates/admin/page-dashboard.php:209 templates/admin/page-logs.php:58
+msgid "Settings"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:224
+msgid "Settings saved successfully."
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:157 includes/class-verifyistic-admin.php:368
+msgid "Settings saved!"
+msgstr ""
+
+#: templates/admin/page-settings.php:296
+msgid "Sharp Corners"
+msgstr ""
+
+#: templates/admin/page-settings.php:351
+msgid "Show \"Remember Me for %d Days\" Checkbox"
+msgstr ""
+
+#: templates/admin/page-settings.php:138
+msgid "Shown in ID & Face mode."
+msgstr ""
+
+#: templates/admin/page-settings.php:212
+msgid "Site Logo"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:158
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: templates/admin/page-dashboard.php:126 templates/admin/page-dashboard.php:168 templates/admin/page-settings.php:466
+msgid "Status"
+msgstr ""
+
+#: templates/admin/page-settings.php:376
+msgid "Strict Mode"
+msgstr ""
+
+#: templates/frontend/popup.php:198
+msgid "Submit for Verification"
+msgstr ""
+
+#: templates/admin/page-settings.php:584
+msgid "Support"
+msgstr ""
+
+#: templates/admin/page-settings.php:477
+msgid "Test"
+msgstr ""
+
+#: templates/frontend/popup.php:75
+msgid "Thank you for verifying. Enjoy your visit."
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:115
+msgid "This site requires date-of-birth verification."
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:202
+msgid "Too many attempts. Please wait a few minutes and try again."
+msgstr ""
+
+#: templates/admin/page-dashboard.php:75
+msgid "Total Verifications"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:124
+msgid "Type"
+msgstr ""
+
+#: templates/admin/page-settings.php:217
+msgid "Upload"
+msgstr ""
+
+#: templates/frontend/popup.php:171
+msgid "Upload ID document"
+msgstr ""
+
+#: templates/frontend/popup.php:181
+msgid "Upload selfie with ID"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:164
+msgid "Use This Image"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:122 includes/class-verifyistic-admin.php:123 templates/admin/page-dashboard.php:60 templates/admin/page-logs.php:62 templates/admin/page-settings.php:42
+msgid "Verification Logs"
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:75 includes/class-verifyistic-frontend.php:118
+msgid "Verification could not be completed."
+msgstr ""
+
+#: includes/class-verifyistic-frontend.php:117
+msgid "Verification failed. Please try again."
+msgstr ""
+
+#: templates/admin/page-dashboard.php:84
+msgid "Verified Today"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:180
+msgid "Verify Mode"
+msgstr ""
+
+#: templates/frontend/popup.php:140
+msgid "Verify My Age & Enter"
+msgstr ""
+
+#: includes/class-verifyistic-frontend.php:115
+msgid "Verifying…"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:93 includes/class-verifyistic-admin.php:94
+msgid "Verifyistic"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:184
+msgid "Webhook"
+msgstr ""
+
+#: templates/admin/page-settings.php:408
+msgid "Webhook / API Integration"
+msgstr ""
+
+#: templates/admin/page-settings.php:424 templates/admin/page-settings.php:474
+msgid "Webhook URL"
+msgstr ""
+
+#: includes/class-verifyistic-webhook.php:28
+msgid "Webhook URL must be http or https."
+msgstr ""
+
+#: includes/class-verifyistic-webhook.php:39
+msgid "Webhook host resolves to a private or reserved IP."
+msgstr ""
+
+#: includes/class-verifyistic-webhook.php:77
+msgid "Webhook returned HTTP %d."
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:162
+msgid "Webhook test failed. Check your URL."
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:161
+msgid "Webhook test sent successfully!"
+msgstr ""
+
+#: includes/class-verifyistic-admin.php:423
+msgid "Webhook test sent!"
+msgstr ""
+
+#: templates/admin/page-settings.php:583
+msgid "Website"
+msgstr ""
+
+#: templates/frontend/popup.php:74
+msgid "Welcome!"
+msgstr ""
+
+#: templates/admin/page-settings.php:125
+msgid "When enabled, users must upload a government ID + selfie. Overrides the mode above. Verified data is saved for %d days."
+msgstr ""
+
+#: templates/admin/page-settings.php:182
+msgid "Where to send users who click \"No\". Leave blank to go back."
+msgstr ""
+
+#: templates/frontend/popup.php:122
+msgid "Year"
+msgstr ""
+
+#: templates/admin/page-settings.php:150
+msgid "Yes / I Agree Button Text"
+msgstr ""
+
+#: templates/admin/page-dashboard.php:16
+msgid "Yes / No"
+msgstr ""
+
+#: templates/admin/page-settings.php:111
+msgid "Yes / No Buttons"
+msgstr ""
+
+#: templates/admin/page-settings.php:268
+msgid "Yes Button Color"
+msgstr ""
+
+#: templates/admin/page-settings.php:272
+msgid "Yes Button Text Color"
+msgstr ""
+
+#: includes/class-verifyistic-ajax.php:224 includes/class-verifyistic-frontend.php:110
+msgid "You must be at least %d years old to access this site."
+msgstr ""
+
+#: templates/frontend/popup.php:204
+msgid "Your ID is being reviewed. You may now enter."
+msgstr ""
+
+#: templates/frontend/popup.php:174
+msgid "or drag here"
+msgstr ""
+
+#: templates/frontend/popup.php:184
+msgid "photo with ID visible"
+msgstr ""
+
